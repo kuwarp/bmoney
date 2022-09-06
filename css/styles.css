@@ -145,6 +145,7 @@ hr {
 @media screen and  (max-width:400px) {
   .device-img img{
    width: 270px;
+    height:300px;
    margin-left: -50px;
   }
    
